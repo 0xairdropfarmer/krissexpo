@@ -18,7 +18,7 @@
     "expo-ads-admob": "^8.0.0",
     "expo-in-app-purchases": "^8.0.0",
     "firebase": "^7.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "~16.9.0",
     "react-content-loader": "^5.0.1",
     "react-dom": "~16.9.0",
