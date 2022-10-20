@@ -31,7 +31,7 @@
     "react-native-loading-placeholder": "^0.0.6",
     "react-native-netinfo": "^1.1.0",
     "react-native-paper": "^3.6.0",
-    "react-native-reanimated": "^1.7.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-render-html": "^4.2.0",
     "react-native-safe-area-context": "^0.6.4",
     "react-native-screens": "^2.0.0-beta.1",
